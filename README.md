@@ -17,7 +17,7 @@ A clean and modern portfolio website built with HTML and Tailwind CSS.
 - JavaScript
 
 ## Preview
-![Preview](ss.png)
+![Preview](ss-1.png)
 
 ## Author
 
